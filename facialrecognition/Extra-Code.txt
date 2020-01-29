@@ -1,0 +1,8 @@
+'''
+rfcomm1{
+        bind yes;
+        device 98:D3:41:FD:3E:79;
+        channel 1;
+        comment "Package Detection Motion";
+}
+'''
